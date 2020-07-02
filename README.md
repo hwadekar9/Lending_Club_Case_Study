@@ -57,3 +57,7 @@ To develop your understanding of the domain, you are advised to independently re
 ## Data Understanding
  
 Find the dataset and data dictionary in this repo
+
+## Instructions
+
+loan.zip file has the dataset and the attachde pdf has all inferences documented. Check that as a final result
